@@ -34,10 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yagi17/yagi17/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">📫 Let's Connect</h3>
 
 ###
@@ -58,12 +54,6 @@
   <a href="nafissadik785@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="350" src="https://private-user-images.githubusercontent.com/16862640/288218244-a82f84ab-20c3-4bda-890e-77423bc09dea.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0ODczNjgsIm5iZiI6MTcwOTQ4NzA2OCwicGF0aCI6Ii8xNjg2MjY0MC8yODgyMTgyNDQtYTgyZjg0YWItMjBjMy00YmRhLTg5MGUtNzc0MjNiYzA5ZGVhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE3MzEwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczYzE0NDAyYTI3NWFmOTIwMzk2ZjczOWMyM2ViMjE5YjNmODk4NzgwNjBmYWZhMGRlYTA2ZDU2NjdkMDg5ODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wQ59Pu7fgHA8MIV4NqAldFcud6OKAioaKCZYYHCui2w"  />
 </div>
 
 ###
