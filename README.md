@@ -1,5 +1,4 @@
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nafis Sadik </h1>
 
 # <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nafis Sadik </h1>
 I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). With a solid foundation in JavaScript and a passion for creating dynamic and responsive web applications, I bring innovative solutions to the digital world. 🚀
@@ -19,7 +18,7 @@ Currently exploring new technologies and enhancing my skills in DevOps and cloud
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and Technologies I work with:
 
 <div aline="center">
 <table >
@@ -66,7 +65,14 @@ Currently exploring new technologies and enhancing my skills in DevOps and cloud
       </a>
       <br>Node-JS
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="48" height="48" alt="Visual_Studio_Code" />
+      </a>
+      <br>VS Code
+    </td>
   </tr>
 </table>
-
 </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?/yagi17=/yagi17&show_icons=true&theme=radical)
