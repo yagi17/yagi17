@@ -15,7 +15,7 @@
 I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). With a solid foundation in JavaScript and a passion for creating dynamic and responsive web applications, I bring innovative solutions to the digital world. 🚀
 
 <h5 align="center">
-  <code><a  href="mailto:nafissadik785@gmail.com" title="Email"><img width="22" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg"> Stack Overflow</a></code>
+  <code><a  href="mailto:nafissadik785@gmail.com" title="Email"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"> Stack Overflow</a></code>
   <code><a href="https://www.linkedin.com/in/nafissadik17" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/wtfaokotha" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"> Instagram</a></code>
 </h5>
