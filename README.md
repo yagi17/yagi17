@@ -6,12 +6,15 @@
 
 🔧 Technologies I work with:
 
-Frontend: React, JavaScript (ES6+), HTML5, CSS3, SASS
-Backend: Node.js, Express.js, RESTful APIs, GraphQL
-Databases: MongoDB, MySQL
-Tools: Git, Docker, Webpack, Babel
+***Frontend:*** React, JavaScript (ES6+), HTML5, CSS3, SASS
+<br>
+***Backend:*** Node.js, Express.js
+<br>
+***Databases:*** MongoDB
+<br>
+***Tools:*** Git
 📚 I am committed to continuous learning and staying updated with the latest industry trends. Whether it's building robust backends or crafting intuitive user interfaces, I enjoy tackling challenges and delivering high-quality software solutions.
-
+<br>
 🌱 Currently exploring new technologies and enhancing my skills in DevOps and cloud computing.
 
 
