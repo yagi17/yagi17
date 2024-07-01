@@ -75,4 +75,7 @@ Currently exploring new technologies and enhancing my skills in DevOps and cloud
 </table>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?/yagi17=/yagi17&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagi17&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi17&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yagi17&theme=radical)
+
