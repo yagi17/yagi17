@@ -2,7 +2,8 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table aline="center">
+<div aline="center">
+<table >
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -48,3 +49,5 @@
     </td>
   </tr>
 </table>
+
+</div>
