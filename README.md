@@ -1,5 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yagi17&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=yagi17&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nafis Sadik </h1>
 I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). With a solid foundation in JavaScript and a passion for creating dynamic and responsive web applications, I bring innovative solutions to the digital world. 🚀
 
@@ -66,14 +77,5 @@ I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.
 Currently exploring new technologies and enhancing my skills in DevOps and cloud computing.
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yagi17&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=yagi17&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
