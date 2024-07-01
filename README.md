@@ -5,19 +5,6 @@ I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.
 
 ## 🔧 Technologies I work with:
 
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, SASS
-- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, Webpack, Babel
-
-## 📚 
-I am committed to continuous learning and staying updated with the latest industry trends. Whether it's building robust backends or crafting intuitive user interfaces, I enjoy tackling challenges and delivering high-quality software solutions.
-
-## 🌱 
-Currently exploring new technologies and enhancing my skills in DevOps and cloud computing.
-
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
 > Tools, languages, and Technologies I work with:
 
 <div aline="center">
@@ -74,6 +61,10 @@ Currently exploring new technologies and enhancing my skills in DevOps and cloud
   </tr>
 </table>
 </div>
+
+## 🌱 
+Currently exploring new technologies and enhancing my skills in DevOps and cloud computing.
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
