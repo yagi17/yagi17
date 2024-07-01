@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.
 
 > Tools, languages, and Technologies I work with:
 
-<div aline="center">
+<div  align="center">
 <table >
   <tr>
     <td align="center" width="96">
