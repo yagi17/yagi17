@@ -14,6 +14,13 @@
 # <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nafis Sadik </h1>
 I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). With a solid foundation in JavaScript and a passion for creating dynamic and responsive web applications, I bring innovative solutions to the digital world. 🚀
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/nafissadik17" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a  href="mailto:nafissadik785@gmail.com" title="Email"><img width="22" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/wtfaokotha" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"> Instagram</a></code>
+</h5>
+
 ## 🔧 Technologies I work with:
 
 > Tools, languages, and Technologies I work with:
@@ -73,8 +80,7 @@ I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.
 </table>
 </div>
 
-## 🌱 
-Currently exploring new technologies and enhancing my skills in DevOps and cloud computing.
+## 🌱 Currently exploring new technologies and enhancing my skills in DevOps and cloud computing.
 
 
 
