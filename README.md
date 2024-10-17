@@ -76,7 +76,7 @@ I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" />
       </a>
       <br>NEXT.JS
     </td>
