@@ -90,10 +90,6 @@ I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yagi17&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
-<div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi17&layout=compact)
-</div>
-
 
 
 ## 🌱 Currently exploring new technologies and enhancing my skills in DevOps and cloud computing.
