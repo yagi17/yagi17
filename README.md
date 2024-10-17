@@ -68,6 +68,18 @@ I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.
       </a>
       <br>VS Code
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+      </a>
+      <br>NEXT.JS
+    </td>
   </tr>
 </table>
 </div>
