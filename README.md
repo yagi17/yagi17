@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.
 
 <h5 align="center">
   <code><a  href="mailto:nafissadik785@gmail.com" title="Email"><img width="22" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png">Email</a></code>
-  <code><a href="https://www.linkedin.com/in/nafissadik17" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/nafis-sadik-dev" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/wtfaokotha" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"> Instagram</a></code>
 </h5>
 
